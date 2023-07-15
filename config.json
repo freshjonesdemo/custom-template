@@ -1,3 +1,9 @@
 {
- "library": "latest"
+ "library": "latest",
+ "scripts": [
+    "bob.js"
+ ],
+ "styles": [
+    "styles.css"
+ ]
 }
