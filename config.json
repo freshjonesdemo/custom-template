@@ -1,4 +1,7 @@
 {
  "library": "latest",
- "template": "latest",
+ "template": {
+   "name": "custom-template",
+   "version": "latest"
+ }
 }
