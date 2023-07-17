@@ -1,9 +1,4 @@
 {
  "library": "latest",
- "scripts": [
-    "bob.js"
- ],
- "styles": [
-    "styles.css"
- ]
+ "template": "latest",
 }
