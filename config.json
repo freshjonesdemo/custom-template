@@ -1,6 +1,7 @@
 {
-  "template": {
-    "name": "custom-template",
-    "library": "latest"
+  "type": "template",
+  "library": {
+    "name": "franklin-library",
+    "version": "2.0.0"
   }
 }
